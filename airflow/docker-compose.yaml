@@ -69,9 +69,9 @@ x-airflow-common:
     # WARNING: Use _PIP_ADDITIONAL_REQUIREMENTS option ONLY for a quick checks
     # for other purpose (development, test and especially production usage) build/extend Airflow image.
     _PIP_ADDITIONAL_REQUIREMENTS: ${_PIP_ADDITIONAL_REQUIREMENTS:-}
-    AWS_ACCESS_KEY_ID: AKIA5FTZCS7WCJRCGA6V
-    AWS_SECRET_ACCESS_KEY: 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
-    AWS_DEFAULT_REGION: ap-south-1
+    AWS_ACCESS_KEY_ID: access-key
+    AWS_SECRET_ACCESS_KEY:  secret-key
+    AWS_DEFAULT_REGION: region
   volumes:
     - ${AIRFLOW_PROJ_DIR:-.}/dags:/opt/airflow/dags
     - ${AIRFLOW_PROJ_DIR:-.}/logs:/opt/airflow/logs
