@@ -8,7 +8,7 @@ My participation Repo for Data Engineering Zoomcamp
 ![Alt text](image-4.png)
 
 # Transformed and Tested Data
-![Alt text](image-5.png)
+![Alt text](image-7.png)
 
 # Loaded data to Postgres
 ![Alt text](image-6.png)
