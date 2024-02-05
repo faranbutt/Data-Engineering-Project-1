@@ -1,6 +1,9 @@
 # Data_Engineering_Zoomcamp
 My participation Repo for Data Engineering Zoomcamp
 
+# Flow Diagram:
+![Alt text](image-5.png)
+
 # Overall Pipeline in Mage:
 ![Alt text](image-3.png)
 
