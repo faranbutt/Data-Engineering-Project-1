@@ -2,7 +2,7 @@
 This Data Engineering project focuses on efficiently ingesting taxi data from various CSV files into AWS S3 using Magi.ai pipelines. The entire infrastructure is provisioned and managed with Terraform, ensuring scalability, reliability, and ease of deployment.
 ## Key Features
 
-- **Magi.ai Pipelines Integration:** Leverage the power of Magi.ai pipelines to seamlessly upload and manage taxi data from disparate sources.
+- **MageAI Pipelines Integration:** Leverage the power of Magi.ai pipelines to seamlessly upload and manage taxi data from disparate sources.
   
 - **AWS S3 Storage:** Utilize AWS S3 as a robust storage solution for storing and organizing large volumes of taxi-related data.
 
